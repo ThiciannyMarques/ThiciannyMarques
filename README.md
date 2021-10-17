@@ -13,7 +13,8 @@
   <img align="center" alt="Php" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
    <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Foto" height="150" style="border-radius:50px;" 
+       src="https://media-exp1.licdn.com/dms/image/C4D03AQE3XjRWRpqjOw/profile-displayphoto-shrink_800_800/0/1611025199467?e=1640217600&v=beta&t=QqAUOBkCPsJbDaBbYouzy5yMESGBe5iUOcBOHFHXYwM">
 </div>
   
   ##
