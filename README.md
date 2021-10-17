@@ -1,4 +1,8 @@
 ## Olá, me chamo Thicianny Marques e sou desenvolvedora web!!
+
+Sou FullStack e estudo UX/UI.
+Faço projetos voltados para causas sociais e pedagogicas.
+
 <div align="center">
   <a href="https://github.com/ThiciannyMarques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiciannyMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
