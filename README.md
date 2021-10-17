@@ -1,6 +1,8 @@
 ## Olá, me chamo Thicianny Marques e sou desenvolvedora web!!
 
 Sou FullStack e estudo UX/UI.
+
+
 Faço projetos voltados para causas sociais e pedagogicas.
 
 <div align="center">
