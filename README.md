@@ -13,8 +13,9 @@
   <img align="center" alt="Php" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   
-  <img align="right" alt="Foto" height="150" style="border-radius:150px;" 
+  <!--<img align="right" alt="Foto" height="150" style="border-radius:150px;" 
        src="">
+  -->
 </div>
   
   ##
